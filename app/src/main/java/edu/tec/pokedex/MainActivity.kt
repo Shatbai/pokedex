@@ -13,6 +13,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import edu.tec.pokedex.navegacion.NavegacionApp
 import edu.tec.pokedex.ui.theme.PokedexTheme
 
+
+// Considero que  debemos hacerlo en la parte de carrito que es donde hay más elementos y constrains
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
